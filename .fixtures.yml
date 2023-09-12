@@ -1,16 +1,13 @@
 ---
 fixtures:
   forge_modules:
-    apache:
-      repo: "puppetlabs/apache"
-      ref: "7.0.0"
     archive:
       repo: "puppet/archive"
-      ref: "6.0.2"
+      ref: "7.0.0"
     stdlib:
       repo: "puppetlabs/stdlib"
-      ref: "8.1.0"
+      ref: "9.3.0"
     systemd:
       repo: "puppet/systemd"
-      ref: "3.10.0"
+      ref: "6.0.0"
 
